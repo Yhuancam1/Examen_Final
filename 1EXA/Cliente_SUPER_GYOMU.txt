@@ -1,0 +1,16 @@
+Nit,CI,Nombre,Apellido_Pat,Apellido_Mat,Nombre_RazonSocial,Direccion
+20001,9112134,Sofia,Antezana,Huanca,Bayer,Av. Jasan #1982
+20002,9212434,Isabela,Mamani,Santos,Mamut,Av. Linares Cuellar #3333
+20003,9312334,Santiago,Huanca,Mamani,Quntum,Av. Julio Cesar #2222
+20004,9411934,Mateo,Barra,Surita,Ventura,Av. Galapagos #2202
+20005,9511734,Diego,Canabiri,Perez,Terbol,Av. Mario Moreno #1021
+20006,9611634,Luis,Lopez,Mamani,Manaco,Calle Los Andes #1012
+20007,9711134,Samuel,Salas,Quispe,Imcruz,Av. Sanchez Barra #3234
+20008,9823234,Daniel,Aguirre,Soto,Tigo,Av. Sagarnaga #2345
+20009,9911234,Gabriel,Peredo,Mamani,Multicenter,Av. Equipetrol #1234
+20010,9011434,Isabella,Paredes,Dango,Unilever,Calle Ventura #2445
+20011,9111334,Valentina,Sanchez,Salasar,Yanbal,Av. Arce #2332
+20012,9211534,Camila,Mamani,Tambo,Natura,Calle Chayapata #2111
+20013,9311834,Valeria,Camargo,Sanchez,Agai,Av. Vino Tinto #2124
+20014,9412034,Emma,Barrio,Salgado,Alicorp,Av. España #2111
+20015,9512234,Victoria,Leon,Mamani,Famosa,Calle Motero Rivers #1111

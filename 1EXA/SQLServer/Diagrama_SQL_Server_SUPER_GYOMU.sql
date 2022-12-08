@@ -1,0 +1,1 @@
+delete from Detalle_Compra
